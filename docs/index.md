@@ -15,7 +15,7 @@ De volgende documenten worden behandeld op deze website:
 | *Titel* | *Omschrijving* | *Uitnodiging* |
 |---|---|:---:|
 |Leiden Roleplay| Discord server van Leiden Roleplay | [Klik hier](https://discord.gg/leidenrp) |
-|Leiden Support| Alle support gerelateerde zaken worden hier geregeld | [Klik hier](https://discord.gg/phj2fGkqvF) |
+|Leiden Support| Alle support gerelateerde zaken worden hier geregeld | [Klik hier](https://discord.gg/Jg24D3GdHr) |
 |Leiden Bedrijven| Officiële particuliere bedrijven binnen Leiden | [Klik hier](https://discord.gg/ddtsmy9amq) |
 |Leiden Vliegschool| Officiële vliegschool van Leiden | [Klik hier](https://discord.gg/7AnPp5ayY3) |
 |Leiden Overheid| Verzamelplaats van alle overheidsorganisaties | [Klik hier](https://discord.gg/FTZv2yMWE5) |
