@@ -121,7 +121,7 @@ Straf ⇨ Categorie 7: permanente ban
     * Politiekorps 
 	* Koninklijke Marechaussee
     * Ambulancezorg
-    * Pechhulp
+    * Wegenwacht
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
@@ -367,7 +367,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Politiekorps
 	* Koninklijke Marechaussee
 	* Ambulancezorg
-	* Pechhulp
+	* Wegenwacht
 	* Ministerie van Justitie
 	* Gemeente Leiden
 
