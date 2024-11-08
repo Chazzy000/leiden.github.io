@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening van Springbank Roleplay
+# Algemene Plaatselijke Verordening van Leiden Roleplay
 
 
 ## Strafbepaling
@@ -73,7 +73,7 @@ Straf ⇨ Categorie 7: permanente ban
     * Privazer
 3. Op verdenking van het gebruik van cheats in het breedste begrip kan het managementteam het besluit nemen een straf namens de 7e categorie op te leggen zonder dat hier direct bewijs voor is.
 4. Zijn er meer dan 2 mensen verbannen voor cheats in je groepering, is er een mogelijkheid dat je gehele groep verbannen wordt voor cheats, tenzij je ons op de hoogte hebt gesteld.
-5. Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
+5. Leiden Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
 6. Uitgezoomed schieten is niet toegestaan! Dit i.v.m. crosshairs. Wordt er een ticket aangemaakt waarin we zien dat dit wel het geval is, dan wordt deze direct afgekeurd.
 
 > Straf ⇨ Categorie 7: permanente ban
@@ -104,9 +104,9 @@ Straf ⇨ Categorie 7: permanente ban
 1. Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om.
 2. Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
     * Informatie verkregen uit de Discord servers, bijvoorbeeld over illegale locaties of criminele organisaties.
-    * Informatie verkregen uit content over Springbank, bijvoorbeeld livestreams of Youtube video's.
-    * Informatie verkregen uit vormen van communicatie buiten het spel om, bijvoorbeeld door in een Discord-call te zitten met mensen die ook in Springbank zitten.
-3. Het is niet toegestaan om in een Discord-call te zitten, wanneer je in Springbank bent (ook niet gemute!)
+    * Informatie verkregen uit content over Leiden, bijvoorbeeld livestreams of Youtube video's.
+    * Informatie verkregen uit vormen van communicatie buiten het spel om, bijvoorbeeld door in een Discord-call te zitten met mensen die ook in Leiden zitten.
+3. Het is niet toegestaan om in een Discord-call te zitten, wanneer je in Leiden bent (ook niet gemute!)
 4. Het is niet toegestaan een eigen server te maken voor je bedrijf/gang, zonder toestemming van management.
 5. Om het gebruik hiervan te controleren kan het managementteam videomateriaal van het scenario opvragen. Dit videomateriaal moet overigens ook audiomateriaal bevatten. Indien er aan dit verzoek niet kan worden voldaan wordt de zelfde straf opgelegd.
 
@@ -115,13 +115,13 @@ Straf ⇨ Categorie 7: permanente ban
 ### Artikel 6 - Werk- en officiele kleding
 
 1. Als iemand werkzaam is bij een van de organisaties die is opgenomen in lid 4 van dit artikel wordt van hun verwacht dat zij ten allen tijden hun werkkleding dragen wanneer hun in dienst zijn.
-2. Kledingstukken die vanuit Springbank zijn verstrekt aan officiele (criminele) groeperingen en de organisaties opgenomen in lid 4 mogen alleen gedragen worden wanneer jij daadwerkelijk lid bent van deze organisatie.
+2. Kledingstukken die vanuit Leiden zijn verstrekt aan officiele (criminele) groeperingen en de organisaties opgenomen in lid 4 mogen alleen gedragen worden wanneer jij daadwerkelijk lid bent van deze organisatie.
 3. Uitzondering op lid 1 en 2 is wanneer hier in de roleplay een goede aanleiding voor is.
 4. De organisaties van toepassing op lid 1 en 2:
-    * Politiekorps Springbank
+    * Politiekorps Leiden
 	* Koninklijke Marechaussee
     * Ambulancezorg
-    * Springbank Exclusive Cardealer
+    * Leiden Exclusive Cardealer
     * Pechhulp
 
 > Straf ⇨ Categorie 1: een waarschuwing
@@ -241,7 +241,7 @@ Straf ⇨ Categorie 7: permanente ban
 ### Artikel 18 - Reporting
 
 1. De in-game functie om spelers te rapporteren (/report) is alleen gediend om gebruikt te worden in gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen.
-2. Bij een overtreding van een regel van een andere speler is het altijd zaak dat er een report of een ticket in de Springbank support discord wordt gemaakt met voldoende bewijsmateriaal indien nodig.
+2. Bij een overtreding van een regel van een andere speler is het altijd zaak dat er een report of een ticket in de Leiden support discord wordt gemaakt met voldoende bewijsmateriaal indien nodig.
 3. Indien je een report maakt in-game is het de bedoeling dat je dit beschouwt als OOC-informatie. Je mag dus ook niet met anderen delen dat jij een report hebt gemaakt of het tegen de persoon zelf zeggen.
 4. Het is niet toegestaan om misbruik te maken van de /report functionaliteit om onterecht voordeel te behalen.
 5. Zodra je een ticket wilt aanmaken voor een scenario waar je het niet mee eens bent, dan moet dat binnen 48 uur na het scenario. (Dit is om te voorkomen dat we spullen na een te lange tijd moeten weghalen bij spelers en het lange zoeken in de logs).
@@ -371,7 +371,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Pechhulp
 	* SPEC
 	* Ministerie van Justitie
-	* Gemeente Springbank
+	* Gemeente Leiden
 3. Indien een overheidsmedewerker betrapt wordt op het bezighouden met illegale praktijk zal dit naast de basisstraf resulteren in ontslag op staande voet bij de organisatie in kwestie.
 4. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, zoals onder andere maar niet beperkt tot:
 	* Dienstwapens
@@ -568,7 +568,7 @@ Straf ⇨ Categorie 7: permanente ban
 ### Artikel 45 - Real life trading
 Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen en zal er geen refund meer worden gegeven.
 
-1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
+1. Het is nooit toegestaan om goederen in Leiden (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
 2. Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
 3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen. 
 4. Hieronder wordt ook het aanbieden of vragen naar verstaan.
