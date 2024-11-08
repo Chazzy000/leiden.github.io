@@ -118,10 +118,9 @@ Straf ⇨ Categorie 7: permanente ban
 2. Kledingstukken die vanuit Leiden zijn verstrekt aan officiele (criminele) groeperingen en de organisaties opgenomen in lid 4 mogen alleen gedragen worden wanneer jij daadwerkelijk lid bent van deze organisatie.
 3. Uitzondering op lid 1 en 2 is wanneer hier in de roleplay een goede aanleiding voor is.
 4. De organisaties van toepassing op lid 1 en 2:
-    * Politiekorps Leiden
+    * Politiekorps 
 	* Koninklijke Marechaussee
     * Ambulancezorg
-    * Leiden Exclusive Cardealer
     * Pechhulp
 
 > Straf ⇨ Categorie 1: een waarschuwing
@@ -356,7 +355,7 @@ Straf ⇨ Categorie 7: permanente ban
     * De inhoud van kluizen van verified of offi gangs.
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
-	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
+	* Scams zijn alleen toegestaan tot een maximum van 1 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 1 miljoen mag bedragen.
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
@@ -369,9 +368,9 @@ Straf ⇨ Categorie 7: permanente ban
 	* Koninklijke Marechaussee
 	* Ambulancezorg
 	* Pechhulp
-	* SPEC
 	* Ministerie van Justitie
 	* Gemeente Leiden
+
 3. Indien een overheidsmedewerker betrapt wordt op het bezighouden met illegale praktijk zal dit naast de basisstraf resulteren in ontslag op staande voet bij de organisatie in kwestie.
 4. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, zoals onder andere maar niet beperkt tot:
 	* Dienstwapens
@@ -405,6 +404,7 @@ Straf ⇨ Categorie 7: permanente ban
 3. Het is niet toegestaan om hostages te pakken op de volgende plekken:
     * In de kledingwinkel in het kledingmenu
     * Locaties waar werkzaamheden gestart en beëindigd worden
+	* Als een speler voor het eerst de stad in komt
 4. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. Indien je wel een setup doet, valt dit onder RDM/ verstoren roleplay.
 
 ### Artikel 31 - Wraak en liquidaties
@@ -474,11 +474,12 @@ Straf ⇨ Categorie 7: permanente ban
 	* Maximaal 3 overvallers bij een winkel.
 	* Maximaal 4 overvallers bij een kleine bank.
 	* Maximaal 5 overvallers bij een juwelier.
-	* Maximaal 6 overvallers bij de grote bank.
+	* Maximaal 8 overvallers bij de grote bank.
 8. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
 9. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting.
 > Indien de politie begonnen is met het neerzetten van de afzetting, moeten ze deze ook meteen afmaken!
 10. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
+11. Je mag iemand maximaal 45 minuten gehostaged worden als het roleplay scenairo al gestart is (gijzeling voor wraak redenen valt hier niet onder).
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
@@ -601,7 +602,7 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 	* ANWB
 	* Ziekenhuis
 	* Gemeentehuis
-	* Bitcoin converter
+	* Cardealer
   
 ### Artikel 49 - Graphic packs
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
