@@ -16,5 +16,5 @@ De volgende documenten worden behandeld op deze website:
 |---|---|:---:|
 |Leiden Roleplay| Discord server van Leiden Roleplay | [Klik hier](https://discord.gg/leidenrp) |
 |Leiden Support| Alle support gerelateerde zaken worden hier geregeld | [Klik hier](https://discord.gg/Jg24D3GdHr) |
-|Leiden Vliegschool| Officiële onderwereld discord van Leiden | [Klik hier](https://discord.gg/egp4KVsqWr) |
+|Leiden Onderwereld| Officiële onderwereld discord van Leiden | [Klik hier](https://discord.gg/egp4KVsqWr) |
 |Leiden Overheid| Verzamelplaats van alle overheidsorganisaties | [Klik hier](https://discord.gg/vvBSruG6Zm) |
