@@ -460,7 +460,7 @@ Straf ⇨ Categorie 7: permanente ban
 3. Het in beslag nemen van voertuigen door een officiële gang moet plaatsvinden via realistische en langdurige roleplay, niet met als hoofddoel geld verdienen.
 4. Indien er gedurende twee weken geen roleplay heeft plaatsgevonden met betrekking tot de inbeslagname van een voertuig, mag het voertuig kosteloos uit de garage worden gehaald.
 5. Het is alleen toegestaan om items, wapens en geld van een speler te confisqueren als dit gebeurt via roleplay. Het confisqueren van overheidsobjecten is niet toegestaan.
-6. Er mogen minimaal 4 staffleden in een gang / groepering zitten.
+6. Er mogen maximaal 4 staffleden in een gang / groepering zitten.
 
 ### Artikel 36 - Overvallen
 
