@@ -107,7 +107,7 @@ Straf ⇨ Categorie 7: permanente ban
     * Informatie verkregen uit content over Leiden, bijvoorbeeld livestreams of Youtube video's.
     * Informatie verkregen uit vormen van communicatie buiten het spel om, bijvoorbeeld door in een Discord-call te zitten met mensen die ook in Leiden zitten.
 3. Het is niet toegestaan om in een Discord-call te zitten, wanneer je in Leiden bent (ook niet gemute!)
-4. Het is niet toegestaan een eigen server te maken voor je bedrijf/gang, zonder toestemming van management.
+4. Het is niet toegestaan een eigen server te maken voor je bedrijf/gang, zonder toestemming van de onderwereld coordinatoor of het managementteam.
 5. Om het gebruik hiervan te controleren kan het managementteam videomateriaal van het scenario opvragen. Dit videomateriaal moet overigens ook audiomateriaal bevatten. Indien er aan dit verzoek niet kan worden voldaan wordt de zelfde straf opgelegd.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
@@ -121,7 +121,7 @@ Straf ⇨ Categorie 7: permanente ban
     * Politiekorps 
 	* Koninklijke Marechaussee
     * Ambulancezorg
-    * Wegenwacht
+    * PechHulp
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
@@ -405,6 +405,7 @@ Straf ⇨ Categorie 7: permanente ban
     * In de kledingwinkel in het kledingmenu
     * Locaties waar werkzaamheden gestart en beëindigd worden
 	* Als een speler voor het eerst de stad in komt
+	* Ziekehuis, PechHulpHQ en cardealer
 4. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. Indien je wel een setup doet, valt dit onder RDM/ verstoren roleplay.
 
 ### Artikel 31 - Wraak en liquidaties
@@ -427,7 +428,7 @@ Straf ⇨ Categorie 7: permanente ban
 7. Het is niet toegestaan om personeel van de ANWB te forceren om een voertuig te repareren.
 8. Het is nooit toegestaan om een melding te maken naar een hulpdienst met het doel om deze te ontvoeren, te overvallen, te vermoorden of dergelijke.
 9. Het is alleen toegestaan om een overheidsmedewerker te ontvoeren indien de aantallen in dienst corresponderen met de specificatie hieronder:
-    * Politiekorps: Per 6 agenten in dienst mag er 1 agent ontvoerd worden
+    * Politiekorps: Per 6 agenten in dienst mag er 1 agent ontvoerd / gegijzeld worden
     * KMar: Per 6 KMar-leden mag er 1 lid ontvoerd worden.
     * Ambulancezorg: Per 8 ambulancemedewerkers in dienst mag er 1 ontvoerd worden.
 10. Het is toegestaan om iemand van het politiekorps of KMar te ontvoeren om een voertuig uit de impound te forceren. De volgende voorwaarden zijn van toepassing:
@@ -600,10 +601,11 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 2. Binnen de greenzone is het gebruik van geweld strikt gereguleerd. Schieten is alleen toegestaan in specifieke scenario's waarin een andere situatie binnen de greenzone verder escaleert en als een laatste redmiddel om levens te beschermen. Alle andere vormen van geweld zijn niet toegestaan en moeten worden vermeden om een vreedzame omgeving te handhaven.
 3. Iedereen binnen de greenzone wordt verwacht zich aan de regels te houden en bij te dragen aan de algemene veiligheid en orde. Het negeren van de regels kan leiden tot passende sancties, variërend van waarschuwingen tot verwijdering uit de greenzone, afhankelijk van de ernst van de overtreding.
 4. De volgende locaties worden gezien als een greenzone:
-	* ANWB
+	* PechHulp
 	* Ziekenhuis
 	* Gemeentehuis
 	* Cardealer
+	* Rijschool Leiden
   
 ### Artikel 49 - Graphic packs
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
